@@ -1,9 +1,10 @@
 class Dog
 end
 
-fido = Dog.new
+fid = Dog.new
 snoopy = Dog.new
 lassie = Dog.new
+scobby = Dog.new
 
 # lib/person.rb
 class Person
